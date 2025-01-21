@@ -1,4 +1,4 @@
-# Leetcode7
+# Leetcode6
 
 This project contains a solution to the LeetCode problem of inorder traversal of a binary tree. The solution is implemented in Java.
 
